@@ -5,7 +5,7 @@ using System.Threading;
 using Confluent.Kafka;
 using Confluent.Kafka.Serialization;
 
-namespace kafka.pubsub.console
+namespace kafka.consumer
 {
     class Program
     {
